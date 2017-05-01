@@ -1,0 +1,52 @@
+body {
+	margin-top:30px;
+	background-color: white;
+	text-align:center;
+	margin: 0 0% 0 0%;
+}
+
+#openningMessage{
+	font-size:300%;
+	font-family:verdana;
+}
+
+#photoTable{
+	margin: 0 25% 0 25% ;
+	width:50%; 
+	height: 30%;
+
+}
+
+.cellDesign{
+	text-align:center;
+	width: 170px;
+}
+
+.searchComitted{
+	visibility: visible;
+}
+
+.noSearchComitted{
+	visibility: hidden;
+}
+
+#photoExhibit{
+	text-align: center;
+}
+
+#nextArrow{
+	float: right;
+	width: 10%;
+	margin-right: 10%;
+}
+
+#prevArrow{
+	float: left;
+	width: 10%;
+	margin-left: 10%;
+}
+
+#error{
+	visibility: hidden;
+	color: red;
+}
