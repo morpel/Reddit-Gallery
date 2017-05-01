@@ -5,8 +5,8 @@ body {
 }
 
 #openningMessage{
-	font-size:300%;
-	font-family:verdana;
+	font-size:200%;
+	font-family: 'Abel', sans-serif;
 }
 
 #photoTable{
@@ -31,7 +31,7 @@ body {
 
 #photoExhibit{
 	text-align: center;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: 'Abel', sans-serif;
 }
 
 #nextArrow{
