@@ -1,4 +1,3 @@
-console.log("adf");
 //this object manages all the fetched posts from reddit and their relevant methods
 var myPosts = {
 	data: [],//holds all data fetched from reddit
